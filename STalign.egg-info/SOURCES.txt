@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+STalign/STalign.py
+STalign/__init__.py
+STalign/curve_annotator.py
+STalign/point_annotator.py
+STalign.egg-info/PKG-INFO
+STalign.egg-info/SOURCES.txt
+STalign.egg-info/dependency_links.txt
+STalign.egg-info/requires.txt
+STalign.egg-info/top_level.txt

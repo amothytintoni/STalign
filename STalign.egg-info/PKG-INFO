@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: STalign
+Version: 1.0
+Summary: aligning spatial transcriptomics data
+Author: JEFworks
+License-File: LICENSE
+Requires-Dist: numpy
